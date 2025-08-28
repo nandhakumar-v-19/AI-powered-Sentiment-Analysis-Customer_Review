@@ -102,7 +102,7 @@ This project builds an AI-powered sentiment analysis solution using a Jupyter no
    ```
 2. Install dependencies (run in the notebook or locally):
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt (if needed)
    ```
 3. Run the notebook cells sequentially from top to bottom. The notebook includes cell-by-cell comments to explain each step.
 
@@ -256,4 +256,4 @@ python app.py  # for a Flask app
 This project is open-source — you can add a license (MIT recommended) depending on your preference.
 
 **Author:** Nandhakumar V (GitHub: `nandhakumar-v-19`)
-**Email / Contact:** Add your contact information here.
+**Email / Contact:** nandhuvenkat18@gmail.com.
