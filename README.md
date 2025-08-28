@@ -102,7 +102,7 @@ This project builds an AI-powered sentiment analysis solution using a Jupyter no
    ```
 2. Install dependencies (run in the notebook or locally):
    ```bash
-   pip install -r requirements.txt (if needed)
+   pip install -r requirements.txt  # If needed
    ```
 3. Run the notebook cells sequentially from top to bottom. The notebook includes cell-by-cell comments to explain each step.
 
@@ -206,7 +206,7 @@ Key items to highlight in your README (populate from notebook results):
    ```
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt  # If needed
    ```
 3. Open the notebook and run cells sequentially, or run the exported scripts (if provided).
 
